@@ -3,5 +3,7 @@ O que eu vou aprender na Trybe:
 - Unit
 - Bash
 - Git
+- HTML
+- CSS
 - JavaScript / Lógica de Programação
 - JavaScript / DOM
